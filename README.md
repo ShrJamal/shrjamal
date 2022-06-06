@@ -31,3 +31,9 @@
 
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/dart/dart.png" />
+
+<br />
+<br />
+<br />
+
+![ShrJamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrjamal&show_icons=true&count_private=true&theme=dark)
