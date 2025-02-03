@@ -1,6 +1,6 @@
 Hi there, I'm Jamal 👋
 
-I'm a software developer based in Morocco. I'm passionate about building software and learning new technologies.
+I am a dedicated full-stack web developer based in Morocco, committed to crafting innovative software solutions. My passion for technology drives me to continuously learn and master new frameworks, and tools.
 <br/>
 <br/>
 
